@@ -1,4 +1,3 @@
 Python based Sudokusolver
 
-bla
 
